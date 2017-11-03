@@ -1,0 +1,2 @@
+coreCSMS.UI.ProductStockOperations
+coreCSMS.UI.ExtensionFileFilter
